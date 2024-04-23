@@ -1,0 +1,25 @@
+
+.notfound-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  
+  .notfound-container h1 {
+    font-weight: bold;
+    color: purple;
+    margin-bottom: 20px;
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .notfound-container {
+      margin-top: 80px;
+    }
+  
+    .notfound-container h1 {
+      margin-bottom: 15px;
+      font-size: 1.2em;
+    }
+  }
+  
